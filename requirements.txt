@@ -1,0 +1,10 @@
+diffusers
+transformers
+accelerate
+torch
+safetensors
+streamlit
+Pillow
+matplotlib
+pyngrok
+streamlit-drawable-canvas==0.8.0
